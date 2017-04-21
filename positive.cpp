@@ -9,9 +9,13 @@ if(a>=0)
 {
 cout<<"Positive number";
 }
-else
+elseif(a==0)
 {
-cout<<"Negative number";
+cout<<"The number is zero";
 }
+  else
+  {
+    cout<<"Negative number"
+  }
 return 0;
 }
