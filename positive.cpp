@@ -12,7 +12,7 @@ if(a==0)
 {
 cout<<"The number is zero";
 }
- if(a<0)
+ if(a < 0)
   {
     cout<<"Negative number";
   }
